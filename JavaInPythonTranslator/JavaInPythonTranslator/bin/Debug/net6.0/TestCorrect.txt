@@ -1,0 +1,23 @@
+import java.lang.Math; 
+class Main { 
+ public static void main (String[] args) {
+ int a = 25;
+  System.out.println(a + a * ++a, a);
+ if (a >= !true && true) {
+  a += 25;
+  }
+ else {
+  a = 20;
+  }
+ for (a = 0; a < 5; a++) {
+  System.out.println(a * a);
+ }
+ while (a > 0) {
+  System.out.println(a * a);
+  break;
+ }
+ do {
+  System.out.println(a * a);
+ } while (a > 0);
+ } 
+}

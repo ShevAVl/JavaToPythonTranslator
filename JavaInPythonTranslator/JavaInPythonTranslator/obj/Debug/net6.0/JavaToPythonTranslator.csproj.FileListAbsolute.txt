@@ -1,0 +1,15 @@
+C:\Users\Админ\source\repos\JavaInPythonTranslator\JavaInPythonTranslator\bin\Debug\net6.0\JavaToPythonTranslator.exe
+C:\Users\Админ\source\repos\JavaInPythonTranslator\JavaInPythonTranslator\bin\Debug\net6.0\JavaToPythonTranslator.deps.json
+C:\Users\Админ\source\repos\JavaInPythonTranslator\JavaInPythonTranslator\bin\Debug\net6.0\JavaToPythonTranslator.runtimeconfig.json
+C:\Users\Админ\source\repos\JavaInPythonTranslator\JavaInPythonTranslator\bin\Debug\net6.0\JavaToPythonTranslator.dll
+C:\Users\Админ\source\repos\JavaInPythonTranslator\JavaInPythonTranslator\bin\Debug\net6.0\JavaToPythonTranslator.pdb
+C:\Users\Админ\source\repos\JavaInPythonTranslator\JavaInPythonTranslator\obj\Debug\net6.0\JavaToPythonTranslator.csproj.AssemblyReference.cache
+C:\Users\Админ\source\repos\JavaInPythonTranslator\JavaInPythonTranslator\obj\Debug\net6.0\JavaToPythonTranslator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\source\repos\JavaInPythonTranslator\JavaInPythonTranslator\obj\Debug\net6.0\JavaToPythonTranslator.AssemblyInfoInputs.cache
+C:\Users\Админ\source\repos\JavaInPythonTranslator\JavaInPythonTranslator\obj\Debug\net6.0\JavaToPythonTranslator.AssemblyInfo.cs
+C:\Users\Админ\source\repos\JavaInPythonTranslator\JavaInPythonTranslator\obj\Debug\net6.0\JavaToPythonTranslator.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\JavaInPythonTranslator\JavaInPythonTranslator\obj\Debug\net6.0\JavaToPythonTranslator.dll
+C:\Users\Админ\source\repos\JavaInPythonTranslator\JavaInPythonTranslator\obj\Debug\net6.0\refint\JavaToPythonTranslator.dll
+C:\Users\Админ\source\repos\JavaInPythonTranslator\JavaInPythonTranslator\obj\Debug\net6.0\JavaToPythonTranslator.pdb
+C:\Users\Админ\source\repos\JavaInPythonTranslator\JavaInPythonTranslator\obj\Debug\net6.0\JavaToPythonTranslator.genruntimeconfig.cache
+C:\Users\Админ\source\repos\JavaInPythonTranslator\JavaInPythonTranslator\obj\Debug\net6.0\ref\JavaToPythonTranslator.dll
