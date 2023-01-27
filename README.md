@@ -30,8 +30,9 @@ The repo contains a full set of files for a VS 2022 project (using net 6.0). Add
   </li>
 </ul>
 
-### Providing input files
-When asked to provide a name of a file with Java code, type in a name of a file inside aforementioned folders.  
+## Initiating a test run
+At the start the program will ask you o provide a name of a .txt file with jav code. After receiving the name, it will look for the file *in a correcponding Ipnput folder* (<project dir>/Input for VS, <project dir>/bin/Debug/net6.0/Input for .exe)  
+  
 *For example*, if you use of VS version, put your .txt files with java code inside the *Input* folder in the project root directory. You can prompt a test run of the program if you provide filename "TestCorrect.txt" (located in Input folder by default)
 
 **Примечание:** проект был разработан около двух лет назад в составе другой студенческой группы в рамках схожей дисциплины. Мой вклад в проект включал:
